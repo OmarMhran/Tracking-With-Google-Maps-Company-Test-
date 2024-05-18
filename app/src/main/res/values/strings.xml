@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tracking-with-google-maps</string>
+    <string name="directions_apikey">AIzaSyDjOJb3CEkFfRDQbJfIj6TPpzSCtWiYTy8</string>
+</resources>
